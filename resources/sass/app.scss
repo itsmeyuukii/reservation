@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Components
+@import 'components/variables';
+@import 'components/mixins';
+@import 'components/button';
+@import 'components/spacers';
+
+// Sections
+@import 'sections/header';
+@import 'sections/dashboard';
+@import 'sections/book';
+@import 'sections/rooms';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';

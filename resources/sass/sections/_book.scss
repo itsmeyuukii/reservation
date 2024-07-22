@@ -1,0 +1,56 @@
+.book {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+
+.container-book {
+    max-width: 700px;
+    width: 100%;
+    background: #fff;
+    padding: 25px 30px;
+    border-radius: 5px;
+
+    // form {
+    //     .book-details {
+    //         display: flex;
+    //         flex-wrap: wrap;
+
+    //         .input-box{
+    //             width: calc(100% / 2 - 20px);
+
+    //             .detail-book {
+    //                 font-weight: 500;
+    //                 margin-bottom: 5px;
+    //             }
+
+    //             input {
+    //                 height: 45px;
+    //                 width: 100%;
+    //             }
+    //         }
+    //     }
+    // }
+
+    // .title {
+    //     font-size: 1.56rem;
+    //     font-weight: 500;
+    //     position: relative;
+
+    //     &::before {
+    //         content: '';
+    //         position: absolute;
+    //         left: 0;
+    //         bottom: 0;
+    //         height: 3px;
+    //         width: 30px;
+    //         background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    //     }
+    // }
+
+}
+
+

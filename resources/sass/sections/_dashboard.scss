@@ -1,0 +1,12 @@
+.main {
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    transition: all 0.35s ease-in-out;
+    background-color: #fafbfe;
+
+    h1 {
+        font-weight: 900;
+        font-size: 1.5rem;
+    }
+}
